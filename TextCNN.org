@@ -1,0 +1,12 @@
+#+TITLE: Notes for TextCNN
+#+AUTHOR: Lakkam Sai Krishna Reddy
+
+Github Implementation link: [[https://github.com/brightmart/text_classification/tree/master/a02_TextCNN][link]]
+Very good explanation with image: [[https://github.com/brightmart/text_classification#2textcnn][link]]
+for fine tuning the model, read this before proceeding: [[https://arxiv.org/abs/1510.03820][link]]
+
+for implementing the convolution layer of TextCNN in keras, use these links: [[https://github.com/keras-team/keras/issues/6547][link1]], [[https://github.com/keras-team/keras/issues/1023#issuecomment-157160311][link2]]
+github implementation using the above mentioned code: [[https://github.com/LB-Yu/TextCNN-keras][link]]
+
+another implementation: [[https://arxiv.org/abs/1408.5882][arxiv.org]], [[https://github.com/anmolsjoshi/textcnn.keras][github implementation of same]]
+more implementations: [[https://github.com/bhaveshoswal/CNN-text-classification-keras][github1]], [[https://github.com/Fight-hawk/TextCNN-keras][github2]]
